@@ -1,0 +1,4 @@
+<map id="ResetSLTemperature" name="ResetSLTemperature">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGStandardAtmosphere.html#a35789c83cd390c95759e43ac7814e228" title="Returns the temperature gradient to be applied on top of the standard temperature gradient..." alt="" coords="205,5,420,32"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGStandardAtmosphere.html#a503451f97e330a8e00f7516933ccdcb5" title="Sets the relative humidity. " alt="" coords="468,5,619,32"/>
+</map>

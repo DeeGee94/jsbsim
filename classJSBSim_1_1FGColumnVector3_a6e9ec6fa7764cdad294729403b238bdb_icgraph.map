@@ -1,0 +1,47 @@
+<map id="Magnitude" name="Magnitude">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGAccelerations.html#a35ac9aa2a24b4c76037dcc874cdfdcdd" title="Runs the state propagation model; called by the Executive Can pass in a value indicating if the execu..." alt="" coords="145,5,355,32"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGAccelerations.html#a04ac96a49c0acc334b3f376f815ce837" title="Retrieves the acceleration resulting from the applied forces. " alt="" coords="161,57,339,98"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGTrim.html#a6a5e26b6c78ad99b63d075c6acc70679" title="Execute the trim. " alt="" coords="681,128,851,155"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGColumnVector3.html#a3a91b782f9b048f1eab26e983c25e025" title="Scale by a scalar. " alt="" coords="203,1157,297,1184"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGInertial.html#a35ac9aa2a24b4c76037dcc874cdfdcdd" title="Runs the Inertial model; called by the Executive Can pass in a value indicating if the executive is d..." alt="" coords="167,1208,333,1235"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGInitialCondition.html#a1fabb78d427d8f826631eb863fccce28" title="Resets the IC data structure to new values. " alt="" coords="673,821,859,862"/>
+<area shape="rect" id="node10" href="$classJSBSim_1_1FGInitialCondition.html#af4c905db84f046ff017aaa3cb86a3541" title="Loads the initial conditions. " alt="" coords="1153,799,1340,841"/>
+<area shape="rect" id="node11" href="$classJSBSim_1_1FGInitialCondition.html#aef47a274b700f482ad7c4e75aa8e204b" title="Sets the initial ground speed. " alt="" coords="157,197,343,238"/>
+<area shape="rect" id="node14" href="$classJSBSim_1_1FGInitialCondition.html#a4e35ac529197f0bbcd476f52eae08a40" title="Sets the initial sideslip angle. " alt="" coords="157,873,343,914"/>
+<area shape="rect" id="node17" href="$classJSBSim_1_1FGInitialCondition.html#a56fea7711daa2baa473609612faa4077" title="Sets the initial wind velocity. " alt="" coords="157,327,343,369"/>
+<area shape="rect" id="node19" href="$classJSBSim_1_1FGInitialCondition.html#a57d4e26c7e34322f7e032b418cf8772f" title="Sets the initial crosswind speed. " alt="" coords="157,262,343,303"/>
+<area shape="rect" id="node20" href="$classJSBSim_1_1FGInitialCondition.html#aade0339651dc5bf735d0fb105dc16cdf" title="Sets the initial headwind velocity. " alt="" coords="157,458,343,499"/>
+<area shape="rect" id="node21" href="$classJSBSim_1_1FGInitialCondition.html#a1cc39afd956177b29210420e224beb46" title="Sets the initial wind downward speed. " alt="" coords="157,393,343,434"/>
+<area shape="rect" id="node22" href="$classJSBSim_1_1FGInitialCondition.html#a3064f4b800bd75993cc04e6f85b0846c" title="Sets the initial total wind speed. " alt="" coords="157,523,343,565"/>
+<area shape="rect" id="node23" href="$classJSBSim_1_1FGInitialCondition.html#acb10a2eea909a886349f49830377b028" title="Sets the initial wind direction. " alt="" coords="157,589,343,630"/>
+<area shape="rect" id="node24" href="$classJSBSim_1_1FGInitialCondition.html#a15190adda3d45ca77eca18f6d32a1169" title="Gets the initial total wind velocity in feet/sec. " alt="" coords="673,1325,859,1366"/>
+<area shape="rect" id="node26" href="$classJSBSim_1_1FGInitialCondition.html#a70c76b2d70e80728f3f2c68ca0c8f8c7" title="Gets the initial ground velocity. " alt="" coords="673,1434,859,1475"/>
+<area shape="rect" id="node28" href="$classJSBSim_1_1FGLGear.html#ad983d4035efc81bf292e4269cd3601cc" title="The Force vector for this gear. " alt="" coords="153,1259,347,1301"/>
+<area shape="rect" id="node29" href="$classJSBSim_1_1FGLocation.html#a20809288597c81aac013679a1bc977dd" title="Set the longitude. " alt="" coords="436,807,583,849"/>
+<area shape="rect" id="node31" href="$classJSBSim_1_1FGLocation.html#a9c53151a720f02d6a7ddca32e5946745" title="Set the latitude. " alt="" coords="436,690,583,731"/>
+<area shape="rect" id="node33" href="$classJSBSim_1_1FGLocation.html#ad1b855893aaa82233cdd6e509c1ee23a" title="Set the distance from the center of the earth. " alt="" coords="177,990,323,1031"/>
+<area shape="rect" id="node37" href="$classJSBSim_1_1FGLocation.html#a0697137d8c02a8b84f695d12317347a6" title="Sets the semimajor and semiminor axis lengths for this planet. " alt="" coords="436,1041,583,1082"/>
+<area shape="rect" id="node38" href="$classJSBSim_1_1FGPropagate.html#a717455e1506aff0101e7dd56abb60ee6" title="Retrieves the Euler angles (in degrees) that define the vehicle orientation. " alt="" coords="171,1325,329,1366"/>
+<area shape="rect" id="node39" href="$classJSBSim_1_1FGPropeller.html#a15792c31b5924f5afe34808502a965ef" title="Calculates and returns the thrust produced by this propeller. " alt="" coords="175,1390,325,1431"/>
+<area shape="rect" id="node41" href="$classJSBSim_1_1FGQuaternion.html#a08cdcd333c49bee9b017cb6ba2829509" title="Initializer by a rotation axis and an angle. " alt="" coords="168,1455,332,1497"/>
+<area shape="rect" id="node42" href="$classJSBSim_1_1FGWinds.html#a35ac9aa2a24b4c76037dcc874cdfdcdd" title="Runs the winds model; called by the Executive Can pass in a value indicating if the executive is dire..." alt="" coords="169,1521,331,1548"/>
+<area shape="rect" id="node43" href="$classJSBSim_1_1FGWinds.html#a5ed79dd94ea2bc253ca214c99f4f77af" title="Sets the direction that the wind is coming from. " alt="" coords="405,1572,613,1599"/>
+<area shape="rect" id="node45" href="$classJSBSim_1_1FGWinds.html#a7f400bc589b69ff4ba17b6615777958b" title="Turbulence models available: ttNone, ttStandard, ttBerndt, ttCulp, ttMilspec, ttTustin. " alt="" coords="143,1623,357,1649"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGFDMExec.html#aa83769769c700eba0b0b82a5c62dbc71" title="This function executes each scheduled model in succession. " alt="" coords="418,67,601,93"/>
+<area shape="rect" id="node9" href="$classJSBSim_1_1FGInitialCondition.html#a122dacd64147e2d1b1db97e719de2989" title="Sets pitch angle initial condition in degrees. " alt="" coords="919,829,1105,870"/>
+<area shape="rect" id="node12" href="$classJSBSim_1_1FGInitialCondition.html#a6f3cf9777dfc1bbd1bf43925c8e617d7" title="Set ground speed initial condition in knots. " alt="" coords="919,290,1105,331"/>
+<area shape="rect" id="node13" href="$classJSBSim_1_1FGInitialCondition.html#aed6e3b6b8e0d347cde695cfbc65ca55a" title="Gets the initial altitude above sea level. " alt="" coords="416,173,603,214"/>
+<area shape="rect" id="node15" href="$classJSBSim_1_1FGInitialCondition.html#abffe2ecc4a7f992d6e4a8569e374eb5e" title="Sets angle of sideslip initial condition in degrees. " alt="" coords="919,1047,1105,1089"/>
+<area shape="rect" id="node16" href="$classJSBSim_1_1FGInitialCondition.html#a4432f5e65443121378434889b2580f07" title="Sets the initial flight path angle. " alt="" coords="416,873,603,914"/>
+<area shape="rect" id="node18" href="$classJSBSim_1_1FGInitialCondition.html#aae17f88a86799403d5a50d5a3a981c60" title="Sets the initial body axis yaw rate. " alt="" coords="416,391,603,433"/>
+<area shape="rect" id="node25" href="$classJSBSim_1_1FGInitialCondition.html#ab3fe5bafaa6f202e0659ad6024989a96" title="Gets the initial wind velocity in local frame. " alt="" coords="919,1375,1105,1417"/>
+<area shape="rect" id="node27" href="$classJSBSim_1_1FGInitialCondition.html#a69c56faa796adeec5c6de64c14bc832d" title="Gets the initial ground speed. " alt="" coords="919,1493,1105,1534"/>
+<area shape="rect" id="node30" href="$classJSBSim_1_1FGInitialCondition.html#a5c7c88a597829607471730f280b3266b" title="Sets the initial longitude. " alt="" coords="673,989,859,1030"/>
+<area shape="rect" id="node32" href="$classJSBSim_1_1FGInitialCondition.html#ab6f6dae970e40878a34789be7dfcb9a7" title="Sets the initial latitude. " alt="" coords="919,661,1105,702"/>
+<area shape="rect" id="node34" href="$classJSBSim_1_1FGLocation.html#a551007a874d46fe1742b2cf37c3ed5d8" title="Set the altitude above sea level. " alt="" coords="436,1171,583,1213"/>
+<area shape="rect" id="node35" href="$classJSBSim_1_1FGLocation.html#a59c7aae863131d3f63b23ad8b24d8858" title="Set the altitude above ground level. " alt="" coords="436,1106,583,1147"/>
+<area shape="rect" id="node36" href="$classJSBSim_1_1FGPropagate.html#a9729191af164b5db0c9f72cd182939d2" title="Initializes the FGPropagate class after instantiation and prior to first execution. " alt="" coords="687,1106,845,1147"/>
+<area shape="rect" id="node40" href="$classJSBSim_1_1FGPropeller.html#abfb78248385ad5cc7965b9b455347c33" title="Retrieves the Torque in foot&#45;pounds (Don&#39;t you love the English system?) " alt="" coords="435,1390,584,1431"/>
+<area shape="rect" id="node44" href="$classJSBSim_1_1FGWinds.html#a5451fc3dd84f9a88d76c75170509f12d" title="Retrieves the direction that the wind is coming from. " alt="" coords="661,1572,871,1599"/>
+<area shape="rect" id="node46" href="$classJSBSim_1_1FGWinds.html#ab89b6b3a26046c96a24e10f14c831f1a" title="Constructor. " alt="" coords="413,1623,605,1649"/>
+</map>

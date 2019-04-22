@@ -1,0 +1,20 @@
+<map id="GetAltitudeASL" name="GetAltitudeASL">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGAuxiliary.html#a5e6da77464ba4e92032ac1ef6d3aaa3f" title="Returns the total temperature. " alt="" coords="184,5,347,47"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInitialCondition.html#a13d4b8fd402f41dcf6eef8ed0c11f435" title="Set equivalent airspeed initial condition in knots. " alt="" coords="407,61,593,103"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGInitialCondition.html#a4b214047e1c25d93b9d706621f32f6ce" title="Set mach initial condition. " alt="" coords="642,105,829,147"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGInitialCondition.html#abaa026e39ca6d9c383ccffa8f9bbd936" title="Set calibrated airspeed initial condition in knots. " alt="" coords="877,171,1064,212"/>
+<area shape="rect" id="node9" href="$classJSBSim_1_1FGInitialCondition.html#adb6fe57c0d1ce470a4d12b8e3054f75b" title="Sets the altitude above sea level initial condition in feet. " alt="" coords="172,331,359,372"/>
+<area shape="rect" id="node11" href="$classJSBSim_1_1FGInitialCondition.html#a5c7c88a597829607471730f280b3266b" title="Sets the initial longitude. " alt="" coords="642,397,829,439"/>
+<area shape="rect" id="node15" href="$classJSBSim_1_1FGInitialCondition.html#a28288639394d23370811a7de84072e86" title="Gets the initial calibrated airspeed. " alt="" coords="642,476,829,517"/>
+<area shape="rect" id="node16" href="$classJSBSim_1_1FGInitialCondition.html#a38a4c348cd4c6d646909fb2882abe9d6" title="Gets the initial equivalent airspeed. " alt="" coords="642,541,829,583"/>
+<area shape="rect" id="node17" href="$classJSBSim_1_1FGInitialCondition.html#a50250a7632659367bde46ea89f98d6ff" title="Gets the initial mach. " alt="" coords="642,659,829,700"/>
+<area shape="rect" id="node19" href="$classJSBSim_1_1FGInitialCondition.html#aed6e3b6b8e0d347cde695cfbc65ca55a" title="Gets the initial altitude above sea level. " alt="" coords="172,600,359,641"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGAuxiliary.html#a35ac9aa2a24b4c76037dcc874cdfdcdd" title="Runs the Auxiliary routines; called by the Executive Can pass in a value indicating if the executive ..." alt="" coords="412,10,588,37"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGInitialCondition.html#af4c905db84f046ff017aaa3cb86a3541" title="Loads the initial conditions. " alt="" coords="1112,356,1299,397"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGInitialCondition.html#a6f3cf9777dfc1bbd1bf43925c8e617d7" title="Set ground speed initial condition in knots. " alt="" coords="877,105,1064,147"/>
+<area shape="rect" id="node10" href="$classJSBSim_1_1FGInitialCondition.html#a78752db06521e6974fad0089a5e31695" title="Sets the initial Altitude above ground level. " alt="" coords="407,331,593,372"/>
+<area shape="rect" id="node13" href="$classJSBSim_1_1FGInitialCondition.html#a68c83023466c7734fea2917175d9325d" title="Sets the flight path angle initial condition in degrees. " alt="" coords="641,280,829,321"/>
+<area shape="rect" id="node14" href="$classJSBSim_1_1FGTrim.html#a6a5e26b6c78ad99b63d075c6acc70679" title="Execute the trim. " alt="" coords="415,447,585,474"/>
+<area shape="rect" id="node12" href="$classJSBSim_1_1FGInitialCondition.html#a6fe6c08828d7c74e174ba1ad7f61101e" title="Sets the initial longitude. " alt="" coords="877,491,1064,532"/>
+<area shape="rect" id="node18" href="$classJSBSim_1_1FGInitialCondition.html#ae9bb6d4c75e6bb16b321544f7db79023" title="Gets the initial true velocity. " alt="" coords="877,709,1064,751"/>
+</map>

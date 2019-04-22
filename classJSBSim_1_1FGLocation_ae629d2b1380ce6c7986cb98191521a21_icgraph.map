@@ -1,0 +1,10 @@
+<map id="GetContactPoint" name="GetContactPoint">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGLGear.html#ad983d4035efc81bf292e4269cd3601cc" title="The Force vector for this gear. " alt="" coords="180,16,375,57"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGLocation.html#a05481f3155aa12f45a0a9678c451e777" title="Get the altitude above ground level. " alt="" coords="217,82,337,109"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGTrim.html#a6a5e26b6c78ad99b63d075c6acc70679" title="Execute the trim. " alt="" coords="657,75,828,102"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGPropagate.html#ae7bc2590ddc9fba3244495b8967fb30c" title="Sets the property forces/hold&#45;down. " alt="" coords="198,188,357,229"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInitialCondition.html#a644044433997e3d56d5c1b10fcaf4f8b" title="Gets the initial altitude above ground level. " alt="" coords="423,5,609,47"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGPropagate.html#a61eb764447723162a99933775f3921a4" title="Returns the &quot;constant&quot; LocalTerrainRadius. " alt="" coords="431,71,601,112"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGFDMExec.html#ae7bc2590ddc9fba3244495b8967fb30c" title="Sets the property forces/hold&#45;down. " alt="" coords="437,188,595,229"/>
+<area shape="rect" id="node9" href="$classJSBSim_1_1FGPropagate.html#ad257da8de9bd36b25735d6577f6dbd21" title="Returns the quaternion that goes from ECEF to Body. " alt="" coords="437,253,595,295"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="GetTl2i" name="GetTl2i">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGLocation.html#a615abebc7359f6a872d60c7680a8039c" title="Get the geodetic distance between the current location and a given location. " alt="" coords="120,107,235,133"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGLocation.html#a077d7597ec2d610bd6370db8c8a44232" title="Get the heading that should be followed from the current location to a given location along the short..." alt="" coords="122,157,233,184"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGLocation.html#ada87a409e3919490b608b42a27f438e7" title="Get the latitude. " alt="" coords="295,56,392,83"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGLocation.html#a2420bec8cd0ca25c04353050a926a6af" title="Get the longitude. " alt="" coords="289,157,397,184"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGLocation.html#abe2cd187c5f677dd158e0a3f7cd5588b" title="Get the cosine of Latitude. " alt="" coords="283,107,404,133"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGLocation.html#a3f3f67b03ed439bd572208afa1a737b5" title="Get the distance from the center of the earth. " alt="" coords="300,5,387,32"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGLocation.html#a9b73a353041ef6f811af44d830df8e23" title="Get the sine of Latitude. " alt="" coords="285,208,402,235"/>
+</map>

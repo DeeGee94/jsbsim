@@ -1,0 +1,5 @@
+<map id="RankineToCelsius" name="RankineToCelsius">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGAuxiliary.html#aeedb51f625c3af5e8a67d9bbed195ced" title="Constructor. " alt="" coords="208,5,355,47"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGAuxiliary.html#a35ac9aa2a24b4c76037dcc874cdfdcdd" title="Runs the Auxiliary routines; called by the Executive Can pass in a value indicating if the executive ..." alt="" coords="193,71,369,98"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGLGear.html#ad983d4035efc81bf292e4269cd3601cc" title="The Force vector for this gear. " alt="" coords="184,123,379,164"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="GetRadius" name="GetRadius">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGAuxiliary.html#a35ac9aa2a24b4c76037dcc874cdfdcdd" title="Runs the Auxiliary routines; called by the Executive Can pass in a value indicating if the executive ..." alt="" coords="427,56,603,82"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGDefaultGroundCallback.html#ae1898afa27d4bc1a6f6c996a3d77912a" title="Compute the altitude above sealevel. " alt="" coords="140,40,379,82"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGDefaultGroundCallback.html#ab2595c980e5bde505594fb59d54f604e" title="Compute the altitude above ground. " alt="" coords="140,106,379,147"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGInitialCondition.html#af4c905db84f046ff017aaa3cb86a3541" title="Loads the initial conditions. " alt="" coords="651,190,837,231"/>
+<area shape="rect" id="node9" href="$classJSBSim_1_1FGLocation.html#a615abebc7359f6a872d60c7680a8039c" title="Get the geodetic distance between the current location and a given location. " alt="" coords="202,172,317,198"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGInitialCondition.html#ae2b6568a2bdbaa0414cdaa5b36344d0d" title="Gets the target normal load factor set from IC. " alt="" coords="911,160,1098,202"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGInput.html#a8204557b6f2865b7e6e29b3a3a9d524d" title="Adds a new input instance to the Input Manager. " alt="" coords="885,226,1124,253"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGScript.html#affd5971385d780aef57a6f7a9645f9f7" title="Loads a script to drive JSBSim (usually in standalone mode). " alt="" coords="901,277,1108,304"/>
+<area shape="rect" id="node10" href="$classJSBSim_1_1FGLocation.html#ad925312237c165da6870ca62033b597e" title="Transform matrix from local horizontal to inertial frame. " alt="" coords="481,172,548,198"/>
+</map>

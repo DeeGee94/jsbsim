@@ -1,0 +1,8 @@
+<map id="SetAltitudeASL" name="SetAltitudeASL">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#adb6fe57c0d1ce470a4d12b8e3054f75b" title="Sets the altitude above sea level initial condition in feet. " alt="" coords="172,72,359,113"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInitialCondition.html#a5c7c88a597829607471730f280b3266b" title="Sets the initial longitude. " alt="" coords="642,189,829,231"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGInitialCondition.html#af4c905db84f046ff017aaa3cb86a3541" title="Loads the initial conditions. " alt="" coords="877,131,1064,172"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInitialCondition.html#a78752db06521e6974fad0089a5e31695" title="Sets the initial Altitude above ground level. " alt="" coords="407,131,593,172"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGInitialCondition.html#a68c83023466c7734fea2917175d9325d" title="Sets the flight path angle initial condition in degrees. " alt="" coords="641,72,829,113"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGTrim.html#a6a5e26b6c78ad99b63d075c6acc70679" title="Execute the trim. " alt="" coords="415,29,585,55"/>
+</map>
